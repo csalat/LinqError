@@ -1,0 +1,11 @@
+C:\Users\csalat\source\repos\LinqError\bin\Debug\netcoreapp3.1\LinqError.exe
+C:\Users\csalat\source\repos\LinqError\bin\Debug\netcoreapp3.1\LinqError.deps.json
+C:\Users\csalat\source\repos\LinqError\bin\Debug\netcoreapp3.1\LinqError.runtimeconfig.json
+C:\Users\csalat\source\repos\LinqError\bin\Debug\netcoreapp3.1\LinqError.runtimeconfig.dev.json
+C:\Users\csalat\source\repos\LinqError\bin\Debug\netcoreapp3.1\LinqError.dll
+C:\Users\csalat\source\repos\LinqError\bin\Debug\netcoreapp3.1\LinqError.pdb
+C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.csprojAssemblyReference.cache
+C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.AssemblyInfoInputs.cache
+C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.AssemblyInfo.cs
+C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.dll
+C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.pdb
