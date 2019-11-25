@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\csalat\\source\\repos\\LinqError\\LinqError.csproj": {}
+    "c:\\Users\\csalat\\source\\repos\\LinqError\\LinqError.csproj": {}
   },
   "projects": {
-    "C:\\Users\\csalat\\source\\repos\\LinqError\\LinqError.csproj": {
+    "c:\\Users\\csalat\\source\\repos\\LinqError\\LinqError.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\csalat\\source\\repos\\LinqError\\LinqError.csproj",
+        "projectUniqueName": "c:\\Users\\csalat\\source\\repos\\LinqError\\LinqError.csproj",
         "projectName": "LinqError",
-        "projectPath": "C:\\Users\\csalat\\source\\repos\\LinqError\\LinqError.csproj",
+        "projectPath": "c:\\Users\\csalat\\source\\repos\\LinqError\\LinqError.csproj",
         "packagesPath": "C:\\Users\\csalat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\csalat\\source\\repos\\LinqError\\obj\\",
+        "outputPath": "c:\\Users\\csalat\\source\\repos\\LinqError\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.3.40, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

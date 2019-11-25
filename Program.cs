@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using LanguageExt;
 
 namespace LinqError
 {
@@ -9,6 +10,24 @@ namespace LinqError
         static void Main(string[] args)
         {
             var test = TestClass.Test();
+            // second feature the return value evaluation
+            // ignore the previous linq error stuff for now
+            var r = new ReturnValueDemonstration();
+            var functionResponse = r.Get();
+            var testValue = functionResponse;
+
+            // fp:
+            var match = FunctionalProgramming.Get(true).Match(x => $"success: {x}", error => error);
+            var testmatch = match;
+        }
+    }
+
+    public static class FunctionalProgramming
+    {
+
+        public static Either<string, int> Get(bool error)
+        {
+            return error ? (Either<string, int>) "error" : 42;
         }
     }
 

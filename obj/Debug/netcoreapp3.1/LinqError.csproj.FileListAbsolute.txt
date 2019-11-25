@@ -9,3 +9,5 @@ C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.Assembl
 C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.AssemblyInfo.cs
 C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.dll
 C:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.pdb
+c:\Users\csalat\source\repos\LinqError\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
+c:\Users\csalat\source\repos\LinqError\obj\Debug\netcoreapp3.1\LinqError.csproj.CopyComplete
